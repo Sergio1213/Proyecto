@@ -17,6 +17,7 @@ public class Proyectoo {
         // TODO code application logic here
         System.out.println("Hola ptos");
         System.out.println(" ya callense alv");
+        int  a = 100;
     }
     
 }
