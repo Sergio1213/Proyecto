@@ -15,6 +15,8 @@ public class Proyectoo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola ptos");
+        System.out.println(" ya callense alv");
     }
     
 }
