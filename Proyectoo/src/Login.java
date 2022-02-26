@@ -116,6 +116,7 @@ String Con="123";
             in.setVisible(true);
            
         }else{
+            Contraseña.setText("");
             Condicion.setText("Incorrecto!");
         }
     }//GEN-LAST:event_IngresarBotonActionPerformed
